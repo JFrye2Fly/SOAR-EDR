@@ -1,7 +1,7 @@
 # SOAR-EDR
 SOAR &amp; EDR Project
 
-<h2>In this project I build a SOAR (Security Orchestration and Automated Response) tool with Tines (Automated Workflow builder) and with LimaCharlie as the EDR (Endpoint Detection Response) tool. </h2>
+<h2>In this project I build a <b>SOAR (Security Orchestration and Automated Response)</b> tool with <b>Tines</b> (Automated Workflow builder) and with <b>LimaCharlie</b> as the EDR (Endpoint Detection Response) tool. </h2>
 <br />
 
 <h3>Languages and Utilities Used</h3>
