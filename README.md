@@ -14,10 +14,14 @@ In this project I build a <b>SOAR (Security Orchestration and Automated Response
 <br>
 
 
-<h2> Step 1 -- Build A WorkFlow Diagram </h2> <br>
-<img width="655" alt="Screen Shot 2025-02-16 at 2 59 40 PM" src="https://github.com/user-attachments/assets/26a08071-65ab-4c02-89fb-f72157fd3d13" />
+<h2> Step 1 -- Build A WorkFlow Diagram </h2>
+<h3>Everything starts when LimaCharlie detects a malicious program on our computer! The malicious program in this case is LaZagne.</h3><br>
 
-<p align=left> AFter launching the virtual machine "TPOT" in the Azure Cloud many malicious hackers 
+<img width="655" alt="Screen Shot 2025-02-16 at 2 59 40 PM" src="https://github.com/user-attachments/assets/1c4e96d6-4d0f-44aa-9bdb-58699373b4b2" />
+
+
+
+<p align=left> After launching the virtual machine "TPOT" in the Azure Cloud many malicious hackers 
 began their attempts to hack the virtual machine. This a live attack map. As you can see countries from all over the world tried to exploit this vulnerable VM.</p>
 
 <img src="https://i.imgur.com/enpYnkf.jpg"/>
