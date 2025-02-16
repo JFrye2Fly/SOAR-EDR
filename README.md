@@ -6,10 +6,10 @@ SOAR &amp; EDR Project
 
 <h3>Languages and Utilities Used</h3>
 
-- <b>Vultr.com -- Launching a Windows Server/Virtual Machine</b>
-- <b>Tines -- An automnation platform </b>
-- <b>Lima Charlie (EDR & Versatile Security Monitoring Tool) </b>
-- <b><strong>Lazagne</strong> -- An open-source credential harvesting tool which gathers credentials from browsers, databases and more. </b>
+- <b>Vultr.com</b> -- Launching a Windows Server/Virtual Machine
+- <b>Tines</b> -- An automnation platform 
+- <b>Lima Charlie</b> (EDR & Versatile Security Monitoring Tool) 
+- <b>Lazagne</b>-- An open-source credential harvesting tool which gathers credentials from browsers, databases and more. 
 
 
 <h3 align="left">Attack Map -- Honey Pot</h3>
