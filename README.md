@@ -44,7 +44,8 @@ These rules look for a new or existing process that:
  - The File Path ends in Lazagne.exe
  - Command line ends with "all"
  - Command line contains "LaZagne"
- - The binary hash is '3cc5ee..." (seen in picture) 
+ - The binary hash is '3cc5ee..." (seen in picture)
+<br> <br>
 
 
 <h2> Step 4 -- Run Lazagne on Virtual Machine and discover Credentials </h2>
@@ -57,5 +58,9 @@ These rules look for a new or existing process that:
 
 
 
+h2> Step 5 -- When Lazagne Runs on our Virtual Machine, LimaCharlie alerts our Automation program Tines </h2>
+<p>Tines then sends out a Slack Message and Email with details about the alert</p>
+
+<img width="1026" alt="SlackDetailMessage" src="https://github.com/user-attachments/assets/58d973e2-859f-4127-a47e-6b8ac49d57c7" />
 
 
