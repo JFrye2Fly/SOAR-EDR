@@ -61,6 +61,42 @@ These rules look for a new or existing process that:
 h2> Step 5 -- When Lazagne Runs on our Virtual Machine, LimaCharlie alerts our Automation program Tines </h2>
 <p>Tines then sends out a Slack Message and Email with details about the alert</p>
 
-<img width="1026" alt="SlackDetailMessage" src="https://github.com/user-attachments/assets/58d973e2-859f-4127-a47e-6b8ac49d57c7" />
+<img width="1026" alt="SlackDetailMessage" src="https://github.com/user-attachments/assets/58d973e2-859f-4127-a47e-6b8ac49d57c7" />  <br>
 
+<img width="733" alt="Screen Shot 2025-02-15 at 1 10 22 PM" src="https://github.com/user-attachments/assets/d981051d-cc8b-4801-9148-82e8a5cc0d32" />
+<br> <br>
+
+
+
+h2> Step 6 -- A User Prompt is sent to the user asking if they want to isolate the endpoint </h2>
+
+<img width="390" alt="UserPrompt" src="https://github.com/user-attachments/assets/6ce364dc-eac1-48bd-9287-81d011c50cfb" />
+
+
+h2> If the User decides to Isolate the Endpoint then LimaCharlie will Isolate it from the network </h2>
+
+<img width="448" alt="ComputerIsolated" src="https://github.com/user-attachments/assets/161c32a6-6406-4ead-89e3-75a9545f236c" /> <br>
+
+
+<p>Before Removing our virtual machine from the Network we can ping websites from Powershell in our Windows VM</p> <br>
+<img width="1096" alt="PingSuccessful" src="https://github.com/user-attachments/assets/a1b45777-b595-400d-89c4-dcec3d68600c" />
+
+
+<p>After Removing our virtual machine from the Network we can no longer ping any websites! </p> <br>
+<img width="1085" alt="PingFailureafterisolation" src="https://github.com/user-attachments/assets/cfc16024-47cc-40c1-87de-428e8a6dc580" />
+
+
+h2> A Final Slack & Email Message is Sent Confirming the Isolation of that endpoint/machine </h2>
+<br>
+<h2>Slack Machine Isolation Message Confirmation</h2>
+<img width="830" alt="SlackIsolationEmail" src="https://github.com/user-attachments/assets/a26c9bea-67c6-4471-af2e-56c2bc7c5be0" />
+
+<br>
+<h2>Email Isolation Message Confirmation </h2>
+<img width="740" alt="ComputerIsolationEmaill" src="https://github.com/user-attachments/assets/41a75f89-f6e4-473a-97de-9979ab56da9b" />
+
+
+<h2>Final Takeaways</h2>
+
+<P>How cool is it to be able to isolate a machine! In the real word this is extremely important to be able to stop malware/ransomware or any other malicious program from spreading throughout the network. It is almost like removing cancer from the body before it can spread!</P>
 
