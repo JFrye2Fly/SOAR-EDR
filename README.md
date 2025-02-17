@@ -25,31 +25,35 @@ In this project I build a <b>SOAR (Security Orchestration and Automated Response
 
 The command to install the agent is comprised of the <strong><LaZagne executable/strong>, -i character and CharlieLima sensor Id. 
 <img width="1077" alt="InstallingLazagne" src="https://github.com/user-attachments/assets/0be7423d-620d-4849-9df7-0ba13a6d1ecc" /> <img width="572" alt="InstallingLazagne2" src="https://github.com/user-attachments/assets/08cb18c1-6194-400f-9863-2e19d499b63a" />
-
-<h2> Step 3 -- Install...</h2>
-<h3>Step 3...</h3>
-
-The command to install the agent is comprised of the <strong><LaZagne executable/strong>, -i character and CharlieLima sensor Id. 
-<img width="1077" alt="InstallingLazagne" src="https://github.com/user-attachments/assets/0be7423d-620d-4849-9df7-0ba13a6d1ecc" /> <img width="572" alt="InstallingLazagne2" src="https://github.com/user-attachments/assets/08cb18c1-6194-400f-9863-2e19d499b63a" />
+<br>
 
 
-<p align=left> After launching the virtual machine "TPOT" in the Azure Cloud many malicious hackers 
-began their attempts to hack the virtual machine. This a live attack map. As you can see countries from all over the world tried to exploit this vulnerable VM.</p>
+<h2> Step 3 -- Create LimaCharlie Detection Rules</h2>
+<p>Creating Detection Rules helps LimaCharlie know what to look for on the target machine! On the LimaCharlie home screen navigate to Automation and then D&R</p> <br>
 
-<img src="https://i.imgur.com/enpYnkf.jpg"/>
+<img width="661" alt="Detection Rule Lima Charlie Pt 1" src="https://github.com/user-attachments/assets/1856cd0f-d718-4b3a-a9ac-3525507cffe3" />
+<img width="677" alt="DetectionRule Lima Charlie Pt 2" src="https://github.com/user-attachments/assets/75a1420c-9112-4c1b-868d-3b92c225e422" />
+<br> <br>
 
-<br />
+These rules look for a new or existing process that: 
+
+ - Contains a windows operating system AND
+
+ * Any of these other conditions:
+ * 
+ - The File Path ends in Lazagne.exe
+ - Command line ends with "all"
+ - Command line contains "LaZagne"
+ - The binary hash is '3cc5ee..." (seen in picture) 
+
+
+<h2> Step 4 -- Create LimaCharlie Detection Rules</h2>
+<p>Creating Detection Rules helps LimaCharlie know what to look for on the target machine! On the LimaCharlie home screen navigate to Automation and then D&R</p> <br>
+
+<img width="661" alt="Detection Rule Lima Charlie Pt 1" src="https://github.com/user-attachments/assets/1856cd0f-d718-4b3a-a9ac-3525507cffe3" />
 
 
 
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
