@@ -1,5 +1,7 @@
 # SOAR-EDR
 
+<img width="573" alt="Screen Shot 2025-02-17 at 6 53 05 AM" src="https://github.com/user-attachments/assets/a5a821d3-473e-46f6-9fe9-e345d73e033f" /> <br>
+
 In this project I build a <b>SOAR (Security Orchestration and Automated Response)</b> tool with <b>Tines</b> (Automated Workflow builder) and with <b>LimaCharlie</b> as the EDR (Endpoint Detection Response) tool. 
 <br />
 
