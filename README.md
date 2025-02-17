@@ -22,8 +22,7 @@ In this project I build a <b>SOAR (Security Orchestration and Automated Response
 
 <h2> Step 2 -- Install a Lima harlie Agent on the Windows Virtual Machine</h2>
 <h3>This will allow LimaCharlie to detect and report any suspicious activity and get our automated workthrough started</h3>h3>
-<img width="1077" alt="InstallingLazagne" src="https://github.com/user-attachments/assets/0be7423d-620d-4849-9df7-0ba13a6d1ecc" /> <img width="1440" alt="InstallingLaZagne2" src="https://github.com/user-attachments/assets/b3313871-8164-4282-a6ff-3aca5d033379" />
-
+<img width="1077" alt="InstallingLazagne" src="https://github.com/user-attachments/assets/0be7423d-620d-4849-9df7-0ba13a6d1ecc" /> <img width="572" alt="InstallingLazagne2" src="https://github.com/user-attachments/assets/08cb18c1-6194-400f-9863-2e19d499b63a" />
 
 
 <p align=left> After launching the virtual machine "TPOT" in the Azure Cloud many malicious hackers 
