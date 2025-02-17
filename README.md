@@ -15,9 +15,14 @@ In this project I build a <b>SOAR (Security Orchestration and Automated Response
 
 
 <h2> Step 1 -- Build A WorkFlow Diagram </h2>
-<h3>Everything starts when LimaCharlie detects a malicious program on our computer! The malicious program in this case is LaZagne.</h3><br>
+<h3>Everything starts when LimaCharlie detects a malicious program on our computer! The malicious program in this case is LaZagne. Eventually A User Prompt is given to isolate the machine and Email/Slack messages with more detail are sent.</h3><br>
 
 <img width="655" alt="Screen Shot 2025-02-16 at 2 59 40 PM" src="https://github.com/user-attachments/assets/1c4e96d6-4d0f-44aa-9bdb-58699373b4b2" />
+
+
+<h2> Step 2 -- Install a Lima harlie Agent on the Windows Virtual Machine</h2>
+<h3>This will allow LimaCharlie to detect and report any suspicious activity and get our automated workthrough started</h3>h3>
+<img width="1077" alt="InstallingLazagne" src="https://github.com/user-attachments/assets/0be7423d-620d-4849-9df7-0ba13a6d1ecc" /> <img width="1440" alt="InstallingLaZagne2" src="https://github.com/user-attachments/assets/b3313871-8164-4282-a6ff-3aca5d033379" />
 
 
 
