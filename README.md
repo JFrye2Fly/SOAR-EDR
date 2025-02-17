@@ -40,18 +40,20 @@ These rules look for a new or existing process that:
  - Contains a windows operating system AND
 
  * Any of these other conditions:
- * 
+   
  - The File Path ends in Lazagne.exe
  - Command line ends with "all"
  - Command line contains "LaZagne"
  - The binary hash is '3cc5ee..." (seen in picture) 
 
 
-<h2> Step 4 -- Create LimaCharlie Detection Rules</h2>
-<p>Creating Detection Rules helps LimaCharlie know what to look for on the target machine! On the LimaCharlie home screen navigate to Automation and then D&R</p> <br>
+<h2> Step 4 -- Run Lazagne on Virtual Machine and discover Credentials </h2>
+<p>LaZagne is used by Digital Forensic Professionals, Pen Testers and Bad Actors</p> <br>
 
-<img width="661" alt="Detection Rule Lima Charlie Pt 1" src="https://github.com/user-attachments/assets/1856cd0f-d718-4b3a-a9ac-3525507cffe3" />
 
+<img width="982" alt="LazagneExecution" src="https://github.com/user-attachments/assets/ba68c5da-a3ca-4e6f-b016-3af88a481b84" />
+
+<img width="1037" alt="LazagneCredentialsRevealed" src="https://github.com/user-attachments/assets/644125ee-de9e-4053-93da-ca419996b6ec" />
 
 
 
