@@ -100,5 +100,7 @@ h2> A Final Slack & Email Message is Sent Confirming the Isolation of that endpo
 
 <h2>Final Takeaways</h2>
 
+<h4>It is great to get hands on Experience with and EDR and SOAR as these are things that security analysts may use on a daily basis!</h4>
+
 <P>How cool is it to be able to isolate a machine! In the real word this is extremely important to be able to stop malware/ransomware or any other malicious program from spreading throughout the network. It is almost like removing cancer from the body before it can spread!</P>
 
