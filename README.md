@@ -77,7 +77,7 @@ h2> Step 6 -- A User Prompt is sent to the user asking if they want to isolate t
 <img width="390" alt="UserPrompt" src="https://github.com/user-attachments/assets/6ce364dc-eac1-48bd-9287-81d011c50cfb" />
 
 
-h2> If the User decides to Isolate the Endpoint then LimaCharlie will Isolate it from the network </h2>
+<h2> If the User decides to Isolate the Endpoint then LimaCharlie will Isolate it from the network </h2>
 
 <img width="448" alt="ComputerIsolated" src="https://github.com/user-attachments/assets/161c32a6-6406-4ead-89e3-75a9545f236c" /> <br>
 
@@ -90,7 +90,7 @@ h2> If the User decides to Isolate the Endpoint then LimaCharlie will Isolate it
 <img width="1085" alt="PingFailureafterisolation" src="https://github.com/user-attachments/assets/cfc16024-47cc-40c1-87de-428e8a6dc580" />
 
 
-h2> A Final Slack & Email Message is Sent Confirming the Isolation of that endpoint/machine </h2>
+<h2> A Final Slack & Email Message is Sent Confirming the Isolation of that endpoint/machine </h2>
 <br>
 <h2>Slack Machine Isolation Message Confirmation</h2>
 <img width="830" alt="SlackIsolationEmail" src="https://github.com/user-attachments/assets/a26c9bea-67c6-4471-af2e-56c2bc7c5be0" />
