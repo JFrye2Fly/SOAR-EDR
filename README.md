@@ -35,7 +35,8 @@ The command to install the agent is comprised of the <strong><LaZagne executable
 
 <img width="1632" height="632" alt="image" src="https://github.com/user-attachments/assets/d99d52ac-ee9d-4047-a6a9-0bbe20d7ee5c" />
 
-<img width="677" alt="DetectionRule Lima Charlie Pt 2" src="https://github.com/user-attachments/assets/75a1420c-9112-4c1b-868d-3b92c225e422" />
+<img width="1681" height="763" alt="image" src="https://github.com/user-attachments/assets/e7ff1ff7-c2ed-40c4-bd6d-bd334179bf92" />
+
 <br> <br>
 
 These rules look for a new or existing process that: 
