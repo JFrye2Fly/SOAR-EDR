@@ -60,7 +60,7 @@ These rules look for a new or existing process that:
 
 
 
-h2> Step 5 -- When Lazagne Runs on our Virtual Machine, LimaCharlie alerts our Automation program Tines </h2>
+<h2> Step 5 -- When Lazagne Runs on our Virtual Machine, LimaCharlie alerts our Automation program Tines </h2>
 <p>Tines then sends out a Slack Message and Email with details about the alert</p>
 
 <img width="1026" alt="SlackDetailMessage" src="https://github.com/user-attachments/assets/58d973e2-859f-4127-a47e-6b8ac49d57c7" />  <br>
