@@ -33,7 +33,8 @@ The command to install the agent is comprised of the <strong><LaZagne executable
 <h2> Step 3 -- Create LimaCharlie Detection Rules</h2>
 <p>Creating Detection Rules helps LimaCharlie know what to look for on the target machine! On the LimaCharlie home screen navigate to Automation and then D&R</p> <br>
 
-<img width="661" alt="Detection Rule Lima Charlie Pt 1" src="https://github.com/user-attachments/assets/1856cd0f-d718-4b3a-a9ac-3525507cffe3" />
+<img width="1632" height="632" alt="image" src="https://github.com/user-attachments/assets/d99d52ac-ee9d-4047-a6a9-0bbe20d7ee5c" />
+
 <img width="677" alt="DetectionRule Lima Charlie Pt 2" src="https://github.com/user-attachments/assets/75a1420c-9112-4c1b-868d-3b92c225e422" />
 <br> <br>
 
