@@ -20,6 +20,9 @@ In this project I build a <b>SOAR (Security Orchestration and Automated Response
 <h3>Everything starts when LimaCharlie detects a malicious program on our computer! The malicious program in this case is LaZagne. Eventually A User Prompt is given to isolate the machine and Email/Slack messages with more detail are sent.</h3><br>
 
 <img width="655" alt="Screen Shot 2025-02-16 at 2 59 40 PM" src="https://github.com/user-attachments/assets/1c4e96d6-4d0f-44aa-9bdb-58699373b4b2" />
+<br> <br>
+
+
 
 
 <h2> Step 2 -- Install a Lima harlie Agent on the Windows Virtual Machine</h2>
@@ -59,6 +62,7 @@ These rules look for a new or existing process that:
 <img width="982" alt="LazagneExecution" src="https://github.com/user-attachments/assets/ba68c5da-a3ca-4e6f-b016-3af88a481b84" />
 
 <img width="1037" alt="LazagneCredentialsRevealed" src="https://github.com/user-attachments/assets/644125ee-de9e-4053-93da-ca419996b6ec" />
+<br>
 
 
 
@@ -72,7 +76,9 @@ These rules look for a new or existing process that:
 
 
 
-h2> Step 6 -- A User Prompt is sent to the user asking if they want to isolate the endpoint </h2>
+
+
+<h2> Step 6 -- A User Prompt is sent to the user asking if they want to isolate the endpoint </h2>
 
 <img width="390" alt="UserPrompt" src="https://github.com/user-attachments/assets/6ce364dc-eac1-48bd-9287-81d011c50cfb" />
 
